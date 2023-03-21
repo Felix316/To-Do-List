@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Felix316/To-Do-List/issues"
   },
@@ -20,5 +20,8 @@
   "devDependencies": {
     "webpack": "^5.76.1",
     "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
   }
 }
